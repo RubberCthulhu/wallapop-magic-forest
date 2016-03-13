@@ -1,0 +1,8 @@
+{application, magic_forest, [
+	      {description, ""},
+	      {vsn, "1"},
+	      {modules, [magic_forest]},
+	      {registered, []},
+	      {applications, [kernel, stdlib]}
+]}.
+
